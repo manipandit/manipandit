@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manipandit&label=Profile%20views&color=0e75b6&style=flat" alt="manipandit" /> </p>
-
 
 
 - 🌱 I’m currently learning **React.js and improving my problem solving skills**
@@ -26,3 +24,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manipandit&show_icons=true&locale=en&layout=compact" alt="manipandit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manipandit&show_icons=true&locale=en" alt="manipandit" /></p>
+
+<p align="center"> 
+   <u> | Profile visits | </u>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/manipandit/count.svg" alt="Visitor Count" align="center" />
+</p>
