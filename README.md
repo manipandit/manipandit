@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js and improving my problem solving skills**
 
-- 📫 How to reach me **manivpandit18@gmail.com**
+- 📫 How to reach me **manikantavpandit@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c4gWfGz0wXIZCfBzhLX0canBqJkB_4kB/view?usp=drivesdk](https://drive.google.com/file/d/1c4gWfGz0wXIZCfBzhLX0canBqJkB_4kB/view?usp=drivesdk)
 
