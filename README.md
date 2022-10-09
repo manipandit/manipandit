@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c4gWfGz0wXIZCfBzhLX0canBqJkB_4kB/view?usp=drivesdk](https://drive.google.com/file/d/1c4gWfGz0wXIZCfBzhLX0canBqJkB_4kB/view?usp=drivesdk)
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/manikanta-pandit-608730219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanta pandit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manipandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manipandit" height="30" width="40" /></a>
