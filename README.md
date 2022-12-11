@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manikantavpandit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/197hFiiWUkMZDgiV-yaoZZA_oGVlqpzIN/view?usp=drivesdk)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/197hFiiWUkMZDgiV-yaoZZA_oGVlqpzIN/view?usp=drivesdk) -->
 
 ## 🤝 Connect with me
 <p align="left">
